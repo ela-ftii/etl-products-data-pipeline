@@ -1,0 +1,9 @@
+Nama: Amelia Fitri Sibarani
+
+Submission ETL Pipeline Fashion Studio
+
+* Scraping data dari fashion-studio.dicoding.dev (halaman 1–50)
+* Melakukan transformasi dan pembersihan data
+* Menyimpan hasil ke products.csv
+* Unit test berhasil dijalankan
+* Coverage testing: 89%
